@@ -16,4 +16,4 @@ Here are some insights into what I’m currently up to and areas where you can c
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I enjoy exploring the intersection of **AI** and **IoT**, and am always on the lookout for new ways to integrate these technologies for impactful solutions.
+- ⚡ Fun fact: I sometimes use graph algorithms to plan the shortest route on my travels—just like a real-life data scientist!
