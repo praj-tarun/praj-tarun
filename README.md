@@ -1,16 +1,16 @@
 ## Hi👋, I am Tarun
 
-✨ _Data Engineer_ ✨ with a passion for **AI/ML**, **IoT**, and **Computer Vision**. 
+✨ Data Engineer | AI/ML | IoT | Real-Time Data Pipelines ✨
 
-Here are some insights into what I’m currently up to and areas where you can connect with me:
+Currently exploring and building expertise in:
 
-- 🔭 I’m currently working on developing advanced **Machine Learning** and **Deep Learning** models, as well as exploring **IoT** solutions with a focus on **Computer Vision**.
+🔭 Developing Machine Learning and Deep Learning models, focusing on real-time data pipelines and AI for sustainability and finance.
 
-- 🌱 I’m currently learning and building expertise in **Machine Learning (ML)**, **Deep Learning (DL)**, and honing my skills in **Data Structures and Algorithms (DSA)**.
+🌱 Building expertise in Data Engineering, Machine Learning (ML), Deep Learning (DL), and Data Structures and Algorithms (DSA).
 
-- 👯 I’m looking to collaborate on **open-source projects** related to **Machine Learning** and **Deep Learning**, as well as innovative **IoT** solutions.
+👯 Looking to collaborate on open-source projects in Machine Learning, Deep Learning, and real-time data pipelines.
 
-- 💬 Ask me about **data engineering**, **data science**, **test automation with Python**, or any exciting **IoT** projects.
+💬 Feel free to ask about data engineering, AI/ML, IoT, or AI for sustainability and finance.
 
 - 📫 How to reach me: You can connect with me here on GitHub or via [LinkedIn](www.linkedin.com/in/tarun-praj).
 
