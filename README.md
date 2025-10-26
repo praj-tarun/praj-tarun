@@ -1,19 +1,12 @@
 ## Hi👋, I am Tarun
 
-✨ Data Engineer | AI/ML | IoT | Real-Time Data Pipelines ✨
+✨ Data Engineer | Real-Time AI | Cloud Data Systems | RAG & Vector Databases Enthusiast ✨
 
 Currently exploring and building expertise in:
-
-🔭 Developing Machine Learning and Deep Learning models, focusing on real-time data pipelines and AI for sustainability and finance.
-
-🌱 Building expertise in Data Engineering, Machine Learning (ML), Deep Learning (DL), and Data Structures and Algorithms (DSA).
-
-👯 Looking to collaborate on open-source projects in Machine Learning, Deep Learning, and real-time data pipelines.
-
-💬 Feel free to ask about data engineering, AI/ML, IoT, or AI for sustainability and finance.
-
-- 📫 How to reach me: You can connect with me here on GitHub or via [LinkedIn](www.linkedin.com/in/tarun-praj).
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: I sometimes use graph algorithms to plan the shortest route on my travels—just like a real-life data scientist!
+🔭 Designing and prototyping streaming RAG systems and vector knowledge bases for smarter retrieval
+🌱 Expanding my skills in cloud data engineering, Python, and connector testing across AWS and GCP
+👯 Open to collaborating on open-source projects in real-time data, embeddings, and AI-powered pipelines
+💬 Always happy to discuss data engineering, knowledge retrieval, cloud integrations, and global travel-tech solutions
+📫 You can reach me right here on GitHub or via LinkedIn
+😄 Pronouns: He/Him
+⚡ Fun fact: I use graph algorithms not just for code, but for planning adventures and journeys around the world!
